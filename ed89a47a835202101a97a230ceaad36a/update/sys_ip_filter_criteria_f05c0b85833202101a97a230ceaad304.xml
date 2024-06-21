@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ip_filter_criteria">
+    <sys_ip_filter_criteria action="INSERT_OR_UPDATE">
+        <description/>
+        <element_name>x_511248_my_app_v1_f05c0b85833202101a97a230ceaad304</element_name>
+        <internal_name>x_511248_my_app_v1_IP_Range_(xxx)</internal_name>
+        <name>IP Range (xxx)</name>
+        <sys_class_name>sys_ip_filter_criteria</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-13 14:47:12</sys_created_on>
+        <sys_id>f05c0b85833202101a97a230ceaad304</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>IP Range (xxx)</sys_name>
+        <sys_package display_value="My App v1" source="x_511248_my_app_v1">ed89a47a835202101a97a230ceaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App v1">ed89a47a835202101a97a230ceaad36a</sys_scope>
+        <sys_update_name>sys_ip_filter_criteria_f05c0b85833202101a97a230ceaad304</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-13 14:47:36</sys_updated_on>
+    </sys_ip_filter_criteria>
+</record_update>
